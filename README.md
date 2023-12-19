@@ -14,7 +14,7 @@ Modern Full Stack ECommerce Application with Stripe & Sanity
 - Through Sanity, you or your clients will be able to change the store’s homepage and more importantly, the details of all the products in the store, instantly and on the go!
 - Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They’ll cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily.
 
-![image](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
+![image](file:///home/devanshu/Pictures/Screenshots/Screenshot%20from%202023-12-19%2018-12-44.png)
 ![image](https://user-images.githubusercontent.com/70088342/160780206-9cfe7c0a-3d8e-4a20-a055-b12efebe6c30.png)
 ![image](https://user-images.githubusercontent.com/70088342/160780265-692d37ac-7209-4d53-957a-e94b37d123c0.png)
 ![image](https://user-images.githubusercontent.com/70088342/160780381-7c947640-422e-4729-abae-21911e9bc716.png)
