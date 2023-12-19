@@ -14,13 +14,10 @@ Modern Full Stack ECommerce Application with Stripe & Sanity
 - Through Sanity, you or your clients will be able to change the store’s homepage and more importantly, the details of all the products in the store, instantly and on the go!
 - Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They’ll cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily.
 
-file:///home/devanshu/Pictures/Screenshots/Screenshot%20from%202023-12-19%2018-12-44.png
 
-![image](https://user-images.githubusercontent.com/70088342/160780206-9cfe7c0a-3d8e-4a20-a055-b12efebe6c30.png)
-![image](https://user-images.githubusercontent.com/70088342/160780265-692d37ac-7209-4d53-957a-e94b37d123c0.png)
+![def](https://github.com/Devanshudd/Ecommerce_Sanity_Stripe/assets/100607040/09a14de1-90cb-4cff-bd64-2565112b4c28)
+![acd](https://github.com/Devanshudd/Ecommerce_Sanity_Stripe/assets/100607040/1f50b617-17e4-4b7e-9b87-6c914bfee5e9)
 ![image](https://user-images.githubusercontent.com/70088342/160780381-7c947640-422e-4729-abae-21911e9bc716.png)
-![image](https://user-images.githubusercontent.com/70088342/160780549-111ed048-cd4b-4740-b2fd-2c6fc3520c52.png)
-![image](https://user-images.githubusercontent.com/70088342/160780884-22d6025e-9b7d-4493-8136-b3dfbf00a32f.png)
 ![abc](https://github.com/Devanshudd/Ecommerce_Sanity_Stripe/assets/100607040/4841ea21-ccae-44f4-a6b1-dc164ca58c23)
 ![suc](https://github.com/Devanshudd/Ecommerce_Sanity_Stripe/assets/100607040/1f4b5ad1-f005-4a62-aceb-8058a000d958)
 
