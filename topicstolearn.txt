@@ -1,5 +1,0 @@
-NextJs
-1)getServerSideProps
-2)getStaticPaths
-fallback:'blocking'
-3)getStaticProps
